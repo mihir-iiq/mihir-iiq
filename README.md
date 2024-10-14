@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mihir-iiq
+- 👀 I’m interested in Full-stack development
+- 🌱 I’m currently learning .NET
+- 💞️ I’m looking to collaborate on anything that I can handle
+- 📫 How to reach me: @solidmalik
+- 😄 Pronouns: Him
+- ⚡ Fun fact: I have all the answers.
